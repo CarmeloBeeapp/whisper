@@ -64,30 +64,32 @@ Features yang akan datang
 | 8  | Pixel 3a API 33 AndroiD x64 emulator | Unknown         | Unknown |
  
 ## Quickstart
-1. Dart
-Jika anda ingin menggunakan whisper di cli / backend server anda menggunakan ini
 
-- Install package dulu
+1. Dart
+
+If you want to use whisper in your cli / backend server use this
+
+- Install Package First
 ```bash
 dart pub add whisper_dart
 ```
 
-- Tambahkan library
+- Add library
 
 ```dart
 import "package:whisper_dart/whisper_dart.dart";
 ```
 
-2. Flutter app
+1. Flutter app
 
-Jika anda ingin menggunakan whisper di app anda menggunakan ini
+If you want to use whisper in your app use this
 
-- Install package dulu
+- Install Package First
 ```bash
 flutter pub add whisper_flutter
 ```
 
-- Tambahkan library
+- add library
 
 ```dart
 import "package:whisper_flutter/whisper_flutter.dart";
@@ -97,9 +99,7 @@ import "package:whisper_flutter/whisper_flutter.dart";
 
 ```dart
 Whisper whisper = Whisper();
-var res = await whisper.request(
-    whisperLib: "libwhisper.so", # jika anda menggunakan whisper flutter anda tidak perlu menambahkan whisperLib karena sudah automatis
-    # pastikan audio yang kamu gunakan berformat wav ya
+var res = await whisper.request( 
     whisperRequest: WhisperRequest.fromWavFile(
         audio: File(audio),
         model: File(model),
