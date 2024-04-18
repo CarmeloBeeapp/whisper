@@ -95,7 +95,14 @@ flutter pub add whisper_flutter
 import "package:whisper_flutter/whisper_flutter.dart";
 ```
 
-### Code
+### Docs
+ 
+1. [Github Docs](https://github.com/azkadev/telegram_client/tree/main/docs)
+2. [Support Group](https://t.me/DEVELOPER_GLOBAL_PUBLIC)
+3. [Youtube](https://youtube.com/@azkadev)
+
+
+### Quickstart
 
 ```dart
 Whisper whisper = Whisper();
