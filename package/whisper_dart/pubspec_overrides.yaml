@@ -1,0 +1,7 @@
+dependency_overrides:
+  whisper:
+    path: ../whisper
+    
+  whisper_scheme:
+    path: ../whisper_scheme
+    

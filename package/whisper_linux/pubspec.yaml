@@ -1,0 +1,27 @@
+name: 'whisper_linux'
+description: 'Openai library Whisper Library from whisper.cpp for recognition audio to text / speech to text without heavy gpu, support server side and client side.'
+version: '0.0.0'
+homepage: 'https://github.com/azkadev/general'
+repository: 'https://github.com/azkadev/whisper'
+issue_tracker: 'https://github.com/azkadev/general/issues'
+documentation: 'https://github.com/azkadev/whisper/tree/main/docs'
+funding: 
+  - 'https://github.com/sponsors/azkadev'
+platforms: 
+  android: null
+  ios: null
+  linux: null
+  macos: null
+  web: null
+  windows: null
+environment: 
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: '>=1.17.0'
+dependencies: 
+  flutter: 
+    sdk: 'flutter'
+dev_dependencies: 
+  flutter_test: 
+    sdk: 'flutter'
+  flutter_lints: '^2.0.0'
+flutter: null
