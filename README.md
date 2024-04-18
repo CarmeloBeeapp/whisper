@@ -114,6 +114,10 @@ var res = await whisper.request(
 );
 ```
 
+## Reference
+
+1. [Whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+
 ## Contributors
 
 1. [JeisonSanches](https://github.com/JeisonSanches) - [Whisper Flutter](https://github.com/azkadev/whisper_dart/tree/main/package/whisper_flutter)
