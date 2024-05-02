@@ -29,7 +29,6 @@ dependencies:
   universal_io: '^2.2.0'
   whisper:
     path: ../whisper
-    
   whisper_scheme:
     path: ../whisper_scheme
     
