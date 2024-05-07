@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/examples/whisper_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/whisper_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/whisper_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/whisper_server/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/whisper_server/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/whisper_server/build" />
+      <excludeFolder url="file://$MODULE_DIR$/package/whisper_dart/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/package/whisper_dart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/package/whisper_dart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/package/whisper_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/package/whisper_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/package/whisper_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/package/whisper_flutter/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/package/whisper_flutter/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/package/whisper_flutter/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
